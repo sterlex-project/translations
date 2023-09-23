@@ -1,0 +1,38 @@
+{
+  "home_metadata_title": "{site} – Le Bot Discord pour Votre Serveur",
+  "home_metadata_description": "Le bot Discord polyvalent avec un tableau de bord convivial. Il propose une gamme de plugins et de commandes différentes pour engager votre communauté. Élevez votre expérience de serveur Discord au niveau supérieur avec {site} aujourd'hui.",
+  "home_header_title": "👋 Salut, je suis {site}",
+  "home_header_description": "Je suis là pour vous offrir une large gamme de plugins et de paramètres personnalisés via notre tableau de bord, conçus pour améliorer votre expérience Discord.",
+
+  "team_devs_title": "Développeurs",
+  "team_devs_description": "L'équipe travaillant sur le site web, le tableau de bord et le bot Discord",
+  "team_translators_title": "Traducteurs",
+  "team_translators_description": "Aider avec les traductions pour le bot et le site web",
+  "team_discord_mods_title": "Modérateurs Discord",
+  "team_discord_mods_description": "Faisant partie du personnel du serveur Discord",
+  "team_beta_testers_title": "Testeurs Bêta",
+  "team_beta_testers_description": "Accès anticipé aux nouvelles mises à jour",
+
+  "radio_player_play": "Lancer la Radio",
+  "radio_player_pause": "Mettre la Radio en Pause",
+  "radio_player_select": "Sélectionner une Radio",
+  "radio_player_search": "Rechercher une Radio",
+  "radio_player_search_empty": "Radio non trouvée",
+
+  "btn_invite": "Inviter",
+  "btn_add_bot": "Ajouter {bot}",
+  "btn_dashboard": "Tableau de Bord",
+  "btn_start_now": "Commencer maintenant",
+  "btn_back": "Retour",
+  "btn_go_back": "Revenir",
+
+  "error_404": "Page non trouvée",
+  "error_500": "Erreur de Serveur",
+
+  "common_save": "Enregistrer",
+  "common_saving": "Enregistrement",
+  "common_cancel": "Annuler",
+  "common_enable": "Activer",
+  "common_disable": "Désactiver",
+  "common_loading": "Chargement"
+}

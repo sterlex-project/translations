@@ -1,0 +1,38 @@
+{
+  "home_metadata_title": "{site} – Boti Discord për Serverin Tuaj",
+  "home_metadata_description": "Boti Discord shumëfunksional me një panel përdoruesi miqësor. Ai ofron një gamë të ndryshme të plugins dhe komandave për të angazhuar komunitetin tuaj. Ngrini përvojën tuaj në serverin Discord në nivelin tjetër sot me {site}.",
+  "home_header_title": "👋 Hej, unë jam {site}",
+  "home_header_description": "Jam këtu për të ofruar një gamë të gjerë të plugins dhe konfigurimeve të personalizuara përmes panelit tonë, të projektuara për të marrë përvojën tuaj në Discord në nivelin tjetër.",
+
+  "team_devs_title": "Zhvilluesit",
+  "team_devs_description": "Ekipi që punon në faqen e internetit, panelin dhe botin e Discord-it",
+  "team_translators_title": "Përkthyesit",
+  "team_translators_description": "Ndihmojnë me përkthimet për botin dhe faqen e internetit",
+  "team_discord_mods_title": "Moderatorët e Discord-it",
+  "team_discord_mods_description": "Pjesë e personelit të serverit të Discord-it",
+  "team_beta_testers_title": "Testuesit Beta",
+  "team_beta_testers_description": "Kanë qasje të hershme në përditësimet e reja",
+
+  "radio_player_play": "Luaj Radio",
+  "radio_player_pause": "Ndalo Radio",
+  "radio_player_select": "Zgjidh një radio",
+  "radio_player_search": "Kërko një radio",
+  "radio_player_search_empty": "Radio nuk u gjet",
+
+  "btn_invite": "Fto",
+  "btn_add_bot": "Shto {bot}",
+  "btn_dashboard": "Paneli",
+  "btn_start_now": "Fillo tani",
+  "btn_back": "Mbrapsht",
+  "btn_go_back": "Kthehu prapa",
+
+  "error_404": "Faqja nuk u gjet",
+  "error_500": "Gabim i Serverit",
+
+  "common_save": "Ruaj",
+  "common_saving": "Duke u ruajtur",
+  "common_cancel": "Anullo",
+  "common_enable": "Aktivizo",
+  "common_disable": "Çaktivizo",
+  "common_loading": "Duke u ngarkuar"
+}

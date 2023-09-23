@@ -1,0 +1,38 @@
+{
+  "home_metadata_title": "{site} – Il bot Discord per il tuo server",
+  "home_metadata_description": "Il bot Discord multiuso con una dashboard intuitiva. Offre una gamma di plugin e comandi diversi per coinvolgere la tua community. Migliora la tua esperienza con il server Discord al livello successivo con {site} oggi stesso.",
+  "home_header_title": "👋 Hey, sono {site}",
+  "home_header_description": "Sono qui per offrirti un'ampia gamma di plugin e impostazioni personalizzate attraverso la nostra dashboard, progettata per portare la tua esperienza su Discord a un livello superiore.",
+
+  "team_devs_title": "Sviluppatori",
+  "team_devs_description": "Il team che lavora sul sito, dashboard e bot discord",
+  "team_translators_title": "Traduttori",
+  "team_translators_description": "Aiutano con le traduzioni del bot e sito",
+  "team_discord_mods_title": "Moderatori Discord",
+  "team_discord_mods_description": "Fanno parte dello Staff del Server Discord",
+  "team_beta_testers_title": "Beta Tester",
+  "team_beta_testers_description": "Hanno accesso anticipato sui nuovi aggiornamenti",
+
+  "radio_player_play": "Avvia Radio",
+  "radio_player_pause": "Metti in Pausa",
+  "radio_player_select": "Scegli una radio",
+  "radio_player_search": "Cerca una radio",
+  "radio_player_search_empty": "Radio non trovata",
+
+  "btn_invite": "Invita",
+  "btn_add_bot": "Aggiungi {bot}",
+  "btn_dashboard": "Dashboard",
+  "btn_start_now": "Inizia ora",
+  "btn_back": "Indietro",
+  "btn_go_back": "Ritorna indietro",
+
+  "error_404": "Pagina non trovata",
+  "error_500": "Errore Server",
+
+  "common_save": "Salva",
+  "common_saving": "Salvando",
+  "common_cancel": "Cancella",
+  "common_enable": "Abilita",
+  "common_disable": "Disabilita",
+  "common_loading": "Caricamento"
+}

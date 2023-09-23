@@ -1,0 +1,38 @@
+{
+  "home_metadata_title": "{site} – Der Discord Bot für deinen Server",
+  "home_metadata_description": "Der vielseitige Discord-Bot mit einem benutzerfreundlichen Dashboard. Er bietet eine Vielzahl von verschiedenen Plugins und Befehlen, um deine Community einzubinden. Hebe deine Discord-Server-Erfahrung heute auf die nächste Stufe mit {site}.",
+  "home_header_title": "👋 Hey, ich bin {site}",
+  "home_header_description": "Ich bin hier, um dir eine breite Palette von Plugins und individuellen Einstellungen über unser Dashboard anzubieten, die darauf ausgelegt sind, deine Discord-Erfahrung auf die nächste Stufe zu heben.",
+
+  "team_devs_title": "Entwickler",
+  "team_devs_description": "Das Team, das an der Website, dem Dashboard und dem Discord-Bot arbeitet",
+  "team_translators_title": "Übersetzer",
+  "team_translators_description": "Helfen bei Übersetzungen für den Bot und die Website",
+  "team_discord_mods_title": "Discord-Moderatoren",
+  "team_discord_mods_description": "Teil des Discord-Server-Personals",
+  "team_beta_testers_title": "Beta-Tester",
+  "team_beta_testers_description": "Haben frühzeitigen Zugang zu neuen Updates",
+
+  "radio_player_play": "Radio abspielen",
+  "radio_player_pause": "Radio pausieren",
+  "radio_player_select": "Radio auswählen",
+  "radio_player_search": "Radio suchen",
+  "radio_player_search_empty": "Radio nicht gefunden",
+
+  "btn_invite": "Einladen",
+  "btn_add_bot": "{bot} hinzufügen",
+  "btn_dashboard": "Dashboard",
+  "btn_start_now": "Jetzt starten",
+  "btn_back": "Zurück",
+  "btn_go_back": "Zurückgehen",
+
+  "error_404": "Seite nicht gefunden",
+  "error_500": "Serverfehler",
+
+  "common_save": "Speichern",
+  "common_saving": "Speichern",
+  "common_cancel": "Abbrechen",
+  "common_enable": "Aktivieren",
+  "common_disable": "Deaktivieren",
+  "common_loading": "Laden"
+}

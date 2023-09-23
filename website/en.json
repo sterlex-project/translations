@@ -1,0 +1,38 @@
+{
+  "home_metadata_title": "{site} – The Discord Bot for Your Server",
+  "home_metadata_description": "The multipurpose Discord bot with a user-friendly dashboard. It offers a range of different plugins and commands to engage your community. Elevate your Discord server experience to the next level with {site} today.",
+  "home_header_title": "👋 Hey, I am {site}",
+  "home_header_description": "I'm here to offer you a wide range of plugins and custom settings through our dashboard, designed to take your Discord experience to the next level.",
+
+  "team_devs_title": "Developers",
+  "team_devs_description": "The team working on the website, dashboard, and Discord bot",
+  "team_translators_title": "Translators",
+  "team_translators_description": "Assist with translations for the bot and website",
+  "team_discord_mods_title": "Discord Moderators",
+  "team_discord_mods_description": "Part of the Discord Server Staff",
+  "team_beta_testers_title": "Beta Testers",
+  "team_beta_testers_description": "Have early access to new updates",
+
+  "radio_player_play": "Play Radio",
+  "radio_player_pause": "Pause Radio",
+  "radio_player_select": "Select a radio",
+  "radio_player_search": "Search a radio",
+  "radio_player_search_empty": "Radio not found",
+
+  "btn_invite": "Invite",
+  "btn_add_bot": "Add {bot}",
+  "btn_dashboard": "Dashboard",
+  "btn_start_now": "Start now",
+  "btn_back": "Back",
+  "btn_go_back": "Go back",
+  
+  "error_404": "Page not found",
+  "error_500": "Server Error",
+
+  "common_save": "Save",
+  "common_saving": "Saving",
+  "common_cancel": "Cancel",
+  "common_enable": "Enable",
+  "common_disable": "Disable",
+  "common_loading": "Loading"
+}

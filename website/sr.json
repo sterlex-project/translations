@@ -1,0 +1,38 @@
+{
+  "home_metadata_title": "{site} – Discord Bot za vaš server",
+  "home_metadata_description": "Univerzalni Discord bot sa korisnički prijateljskom kontrolnom tablom. Nudi različite dodatke i komande za uključivanje vaše zajednice. Unapredite vaše iskustvo na Discord serveru na sledeći nivo uz {site} danas.",
+  "home_header_title": "👋 Hej, ja sam {site}",
+  "home_header_description": "Ovde sam da vam ponudim širok spektar dodataka i prilagođenih podešavanja putem naše kontrolne table, dizajnirane da unaprede vaše iskustvo na Discordu na sledeći nivo.",
+
+  "team_devs_title": "Razvojni tim",
+  "team_devs_description": "Tim koji radi na web stranici, kontrolnoj tabli i Discord botu",
+  "team_translators_title": "Prevodioci",
+  "team_translators_description": "Pomažu sa prevodima za bota i web stranicu",
+  "team_discord_mods_title": "Discord moderatori",
+  "team_discord_mods_description": "Deo osoblja Discord servera",
+  "team_beta_testers_title": "Beta testeri",
+  "team_beta_testers_description": "Imaju rani pristup novim ažuriranjima",
+
+  "radio_player_play": "Reprodukuj Radio",
+  "radio_player_pause": "Pauziraj Radio",
+  "radio_player_select": "Izaberi radio",
+  "radio_player_search": "Pretraži radio",
+  "radio_player_search_empty": "Radio nije pronađen",
+
+  "btn_invite": "Pozovi",
+  "btn_add_bot": "Dodaj {bot}",
+  "btn_dashboard": "Kontrolna tabla",
+  "btn_start_now": "Počni sada",
+  "btn_back": "Nazad",
+  "btn_go_back": "Idi nazad",
+
+  "error_404": "Stranica nije pronađena",
+  "error_500": "Greška na serveru",
+
+  "common_save": "Sačuvaj",
+  "common_saving": "Čuvanje",
+  "common_cancel": "Otkaži",
+  "common_enable": "Omogući",
+  "common_disable": "Onemogući",
+  "common_loading": "Učitavanje"
+}
