@@ -8,5 +8,5 @@
 
 - [open bot translations][bot]
 
-[bot]: https://github.com/sterlex-project/translations/discord
-[site]: https://github.com/sterlex-project/translations/site
+[bot]: https://github.com/sterlex-project/translations/tree/main/discord
+[site]: https://github.com/sterlex-project/translations/tree/main/website
