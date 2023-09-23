@@ -2,13 +2,11 @@
 
 > ## Website Translations
 
-- [open site translations](tr_site)
+- [open site translations](site)
 
 > ## Discord Bot Translations
 
-- [open bot translations](tr_bot)
+- [open bot translations](bot)
 
----
-
-[tr_bot]: "https://github.com/sterlex-project/translations/discord"
-[tr_site]: "https://github.com/sterlex-project/translations/site"
+[bot]: https://github.com/sterlex-project/translations/discord
+[site]: https://github.com/sterlex-project/translations/site
