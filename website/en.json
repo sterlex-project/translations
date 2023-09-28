@@ -20,19 +20,75 @@
   "radio_player_search_empty": "Radio not found",
 
   "btn_invite": "Invite",
+  "btn_invite_bot": "Invite {bot}",
   "btn_add_bot": "Add {bot}",
   "btn_dashboard": "Dashboard",
   "btn_start_now": "Start now",
+  "btn_discord": "Discord Server",
   "btn_back": "Back",
   "btn_go_back": "Go back",
-  
+
+  "dashboard_info": "Select your server and start using the bot.",
+
+  "guilds_search_input": "Search server",
+  "guilds_search_empty": "No servers found",
+
+  "guild_not_found": "Server not found",
+  "guild_not_found_info": "Make sure you have invited the bot to the server",
+
+  "guild_overview": "Overview",
+  "guild_plugins": "Plugins",
+  "guild_settings": "Settings",
+
+  "guild_overview_last_tag": "Last tag",
+  "guild_overview_total_tags": "Total tags",
+  "guild_overview_count_members": "{total} {count, plural, =0 {members} =1 {member} other {members}}",
+  "guild_overview_total_members": "Total members",
+
+  "guild_analytics_wait_for_data": "Waiting for data",
+  "guild_analytics_commands_usage": "Commands usage",
+  "guild_analytics_server_activity": "Server activity",
+
+  "guild_settings_lang": "Language",
+  "guild_settings_lang_info": "The bot language in the server",
+
+  "plugin_not_found": "Plugin not found",
+  "plugin_not_found_info": "Make sure you have invited the bot to the server",
+
+  "plugin_enable": "Enable Plugin",
+  "plugin_disable": "Disable Plugin",
+  "plugin_disable_reset": "Disable and reset plugin",
+  "plugin_changes_save": "Save changes",
+  "plugin_changes_warn": "Save new changes?",
+
+  "plugins_moderation": "Moderation",
+  "plugins_moderation_info": "Moderation in the server",
+  "plugins_moderation_details": "Moderation in the server",
+
+  "plugins_welcome": "Welcome message",
+  "plugins_welcome_info": "Send a welcome message",
+  "plugins_welcome_details": "Send a welcome message when someone joins your server",
+
+  "plugins_goodbye": "Goodbye message",
+  "plugins_goodbye_info": "Send a goodbye message",
+  "plugins_goodbye_details": "Send a goodbye message when someone leaves your server",
+
+  "plugins_tags": "Tags and responses",
+  "plugins_tags_info": "Create and manage tags with responses",
+  "plugins_tags_details": "Create and manage tags with responses",
+
+  "premium_not_enabled": "Not enabled",
+  "premium_active_until": "Active until {date}",
+
   "error_404": "Page not found",
   "error_500": "Server Error",
 
   "common_save": "Save",
   "common_saving": "Saving",
+  "common_reset": "Reset",
   "common_cancel": "Cancel",
   "common_enable": "Enable",
   "common_disable": "Disable",
-  "common_loading": "Loading"
+  "common_loading": "Loading",
+  "common_logout": "Logout"
 }

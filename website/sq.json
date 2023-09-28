@@ -20,19 +20,75 @@
   "radio_player_search_empty": "Radio nuk u gjet",
 
   "btn_invite": "Fto",
+  "btn_invite_bot": "Fto {bot}",
   "btn_add_bot": "Shto {bot}",
   "btn_dashboard": "Paneli",
   "btn_start_now": "Fillo tani",
+  "btn_discord": "Serveri i Discord",
   "btn_back": "Mbrapsht",
   "btn_go_back": "Kthehu prapa",
+
+  "dashboard_info": "Zgjidhni serverin tuaj dhe filloni të përdorni botin.",
+
+  "guilds_search_input": "Kërkoni serverin",
+  "guilds_search_empty": "Nuk u gjetën servere",
+
+  "guild_not_found": "Serveri nuk u gjet",
+  "guild_not_found_info": "Sigurohuni që keni ftuar botin në server",
+
+  "guild_overview": "Përmbledhje",
+  "guild_plugins": "Shtojcat",
+  "guild_settings": "Cilësimet",
+
+  "guild_overview_last_tag": "Etiketa e fundit",
+  "guild_overview_total_tags": "Totali i etiketave",
+  "guild_overview_count_members": "{total} {count, plural, =0 {anëtarë} =1 {anëtar} other {anëtarë}}",
+  "guild_overview_total_members": "Totali i anëtarëve",
+
+  "guild_analytics_wait_for_data": "Duke pritur për të dhënat",
+  "guild_analytics_commands_usage": "Përdorimi i komandave",
+  "guild_analytics_server_activity": "Aktiviteti i serverit",
+  
+  "guild_settings_lang": "Gjuha",
+  "guild_settings_lang_info": "Gjuha e bot-it në server",
+
+  "plugin_not_found": "Shtojca nuk u gjet",
+  "plugin_not_found_info": "Sigurohuni që keni ftuar botin në server",
+
+  "plugin_enable": "Aktivizo Shtojcën",
+  "plugin_disable": "Çaktivizo Shtojcën",
+  "plugin_disable_reset": "Çaktivizo dhe rivendos pluginin",
+  "plugin_changes_save": "Ruaj ndryshimet",
+  "plugin_changes_warn": "Ruani ndryshimet e reja?",
+
+  "plugins_moderation": "Moderimi",
+  "plugins_moderation_info": "Moderimi në server",
+  "plugins_moderation_details": "Moderimi në server",
+
+  "plugins_welcome": "Mesazhi i Mirëseardhjes",
+  "plugins_welcome_info": "Dërgoni një mesazh të mirëseardhjes",
+  "plugins_welcome_details": "Dërgoni një mesazh të mirëseardhjes kur dikush bashkohet me serverin tuaj",
+
+  "plugins_goodbye": "Mesazhi i Lamtumirës",
+  "plugins_goodbye_info": "Dërgoni një mesazh të lamtumirës",
+  "plugins_goodbye_details": "Dërgoni një mesazh të lamtumirës kur dikush largohet nga serveri juaj",
+
+  "plugins_tags": "Etiketat dhe përgjigjet",
+  "plugins_tags_info": "Krijoni dhe menaxhoni etiketat me përgjigje",
+  "plugins_tags_details": "Krijoni dhe menaxhoni etiketat me përgjigje",
+
+  "premium_not_enabled": "Nuk është aktivizuar",
+  "premium_active_until": "Aktiv deri më {date}",
 
   "error_404": "Faqja nuk u gjet",
   "error_500": "Gabim i Serverit",
 
   "common_save": "Ruaj",
   "common_saving": "Duke u ruajtur",
+  "common_reset": "Rivendos",
   "common_cancel": "Anullo",
   "common_enable": "Aktivizo",
   "common_disable": "Çaktivizo",
-  "common_loading": "Duke u ngarkuar"
+  "common_loading": "Duke u ngarkuar",
+  "common_logout": "Dilni"
 }

@@ -20,19 +20,75 @@
   "radio_player_search_empty": "Радиото не беше намерено",
 
   "btn_invite": "Покана",
+  "btn_invite_bot": "Покани {бот}",
   "btn_add_bot": "Добави {bot}",
   "btn_dashboard": "Контролен панел",
   "btn_start_now": "Започни сега",
+  "btn_discord": "Discord Сървър",
   "btn_back": "Назад",
   "btn_go_back": "Назад",
+
+  "dashboard_info": "Изберете вашия сървър и започнете да използвате бота.",
+
+  "guilds_search_input": "Търсене на сървър",
+  "guilds_search_empty": "Няма намерени сървъри",
+
+  "guild_not_found": "Сървърът не бе намерен",
+  "guild_not_found_info": "Уверете се, че сте поканили бота на сървъра",
+
+  "guild_overview": "Преглед",
+  "guild_plugins": "Плъгини",
+  "guild_settings": "Настройки",
+
+  "guild_overview_last_tag": "Последен таг",
+  "guild_overview_total_tags": "Общ брой тагове",
+  "guild_overview_count_members": "{total} {count, plural, =0 {членове} =1 {член} other {членове}}",
+  "guild_overview_total_members": "Общ брой членове",
+
+  "guild_analytics_wait_for_data": "Изчакване на данни",
+  "guild_analytics_commands_usage": "Използване на команди",
+  "guild_analytics_server_activity": "Активност на сървъра",
+  
+  "guild_settings_lang": "Език",
+  "guild_settings_lang_info": "Езикът на бота в сървъра",
+
+  "plugin_not_found": "Плъгинът не бе намерен",
+  "plugin_not_found_info": "Уверете се, че сте поканили бота на сървъра",
+
+  "plugin_enable": "Активиране на плъгин",
+  "plugin_disable": "Изключване на плъгин",
+  "plugin_disable_reset": "Изключете и нулирайте плъгина",
+  "plugin_changes_save": "Запазете промените",
+  "plugin_changes_warn": "Запазване на нови промени?",
+
+  "plugins_moderation": "Модерация",
+  "plugins_moderation_info": "Модерация във вашия сървър",
+  "plugins_moderation_details": "Модерация във вашия сървър",
+
+  "plugins_welcome": "Поздравително съобщение",
+  "plugins_welcome_info": "Изпратете поздравително съобщение",
+  "plugins_welcome_details": "Изпратете поздравително съобщение, когато някой се присъедини към вашия сървър",
+
+  "plugins_goodbye": "Съобщение за сбогом",
+  "plugins_goodbye_info": "Изпратете съобщение за сбогом",
+  "plugins_goodbye_details": "Изпратете съобщение за сбогом, когато някой напусне вашия сървър",
+
+  "plugins_tags": "Тагове и отговори",
+  "plugins_tags_info": "Създавайте и управлявайте тагове с отговори",
+  "plugins_tags_details": "Създавайте и управлявайте тагове с отговори",
+
+  "premium_not_enabled": "Не е активирано",
+  "premium_active_until": "Активно до {date}",
 
   "error_404": "Страницата не е намерена",
   "error_500": "Сървърна грешка",
 
   "common_save": "Запази",
   "common_saving": "Запазване",
+  "common_reset": "Нулиране",
   "common_cancel": "Отмени",
   "common_enable": "Активирай",
   "common_disable": "Деактивирай",
-  "common_loading": "Зареждане"
+  "common_loading": "Зареждане",
+  "common_logout": "Изход"
 }

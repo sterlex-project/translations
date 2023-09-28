@@ -20,19 +20,75 @@
   "radio_player_search_empty": "Радио не е пронајдено",
 
   "btn_invite": "Покани",
+  "btn_invite_bot": "Покани {бот}",
   "btn_add_bot": "Додај {bot}",
   "btn_dashboard": "Контролна табла",
   "btn_start_now": "Започни сега",
+  "btn_discord": "Discord Сервер",
   "btn_back": "Назад",
   "btn_go_back": "Врати се",
+
+  "dashboard_info": "Изберете го вашиот сервер и започнете да го користите ботот.",
+
+  "guilds_search_input": "Пребарајте сервер",
+  "guilds_search_empty": "Не се најдени сервери",
+
+  "guild_not_found": "Серверот не е пронајден",
+  "guild_not_found_info": "Проверете дали сте го поканиле ботот на серверот",
+
+  "guild_overview": "Преглед",
+  "guild_plugins": "Плагини",
+  "guild_settings": "Поставки",
+
+  "guild_overview_last_tag": "Последен таг",
+  "guild_overview_total_tags": "Вкупно тагови",
+  "guild_overview_count_members": "{total} {count, plural, =0 {членови} =1 {член} other {членови}}",
+  "guild_overview_total_members": "Вкупно членови",
+
+  "guild_analytics_wait_for_data": "Чекам податоци",
+  "guild_analytics_commands_usage": "Употреба на команди",
+  "guild_analytics_server_activity": "Активност на серверот",
+  
+  "guild_settings_lang": "Јазик",
+  "guild_settings_lang_info": "Јазик на ботот на серверот",
+
+  "plugin_not_found": "Плагинот не е пронајден",
+  "plugin_not_found_info": "Проверете дали сте го поканиле ботот на серверот",
+
+  "plugin_enable": "Овозможи плагин",
+  "plugin_disable": "Исклучи плагин",
+  "plugin_disable_reset": "Исклучи и ресетирај го приклучокот",
+  "plugin_changes_save": "Зачувај ги промените",
+  "plugin_changes_warn": "Зачувај нови промени?",
+
+  "plugins_moderation": "Модерација",
+  "plugins_moderation_info": "Модерација на серверот",
+  "plugins_moderation_details": "Модерација на серверот",
+
+  "plugins_welcome": "Порака за добредојде",
+  "plugins_welcome_info": "Испратете порака за добредојде",
+  "plugins_welcome_details": "Испратете порака за добредојде кога некој ќе се приклучи на вашиот сервер",
+
+  "plugins_goodbye": "Порака за збогум",
+  "plugins_goodbye_info": "Испратете порака за збогум",
+  "plugins_goodbye_details": "Испратете порака за збогум кога некој ќе напушти вашиот сервер",
+
+  "plugins_tags": "Тагови и одговори",
+  "plugins_tags_info": "Креирајте и управувајте со тагови и одговори",
+  "plugins_tags_details": "Креирајте и управувајте со тагови и одговори",
+
+  "premium_not_enabled": "Не е активирано",
+  "premium_active_until": "Активно до {date}",
 
   "error_404": "Страницата не е пронајдена",
   "error_500": "Серверска грешка",
 
   "common_save": "Зачувај",
   "common_saving": "Зачувување",
+  "common_reset": "Ресетирај",
   "common_cancel": "Откажи",
   "common_enable": "Овозможи",
   "common_disable": "Оневозможи",
-  "common_loading": "Вчитување"
+  "common_loading": "Вчитување",
+  "common_logout": "Одјави се"
 }

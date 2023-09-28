@@ -20,19 +20,75 @@
   "radio_player_search_empty": "Radio nije pronađen",
 
   "btn_invite": "Pozovi",
+  "btn_invite_bot": "Pozovi {bot}",
   "btn_add_bot": "Dodaj {bot}",
   "btn_dashboard": "Kontrolna tabla",
   "btn_start_now": "Počni sada",
+  "btn_discord": "Discord Server",
   "btn_back": "Nazad",
   "btn_go_back": "Idi nazad",
+
+  "dashboard_info": "Izaberite vaš server i počnite da koristite bota.",
+
+  "guilds_search_input": "Pretraga servera",
+  "guilds_search_empty": "Nema pronađenih servera",
+
+  "guild_not_found": "Server nije pronađen",
+  "guild_not_found_info": "Proverite da li ste pozvali bota na server",
+
+  "guild_overview": "Pregled",
+  "guild_plugins": "Dodaci",
+  "guild_settings": "Podešavanja",
+
+  "guild_overview_last_tag": "Poslednja oznaka",
+  "guild_overview_total_tags": "Ukupno oznaka",
+  "guild_overview_count_members": "{total} {count, plural, =0 {članova} =1 {član} other {članova}}",
+  "guild_overview_total_members": "Ukupno članova",
+
+  "guild_analytics_wait_for_data": "Čekanje podataka",
+  "guild_analytics_commands_usage": "Upotreba komandi",
+  "guild_analytics_server_activity": "Aktivnost servera",
+
+  "guild_settings_lang": "Jezik",
+  "guild_settings_lang_info": "Jezik bota na serveru",
+
+  "plugin_not_found": "Dodatak nije pronađen",
+  "plugin_not_found_info": "Proverite da li ste pozvali bota na server",
+
+  "plugin_enable": "Omogući dodatak",
+  "plugin_disable": "Onemogući dodatak",
+  "plugin_disable_reset": "Искључи и поништи прикључак",
+  "plugin_changes_save": "Сачувај измене",
+  "plugin_changes_warn": "Сачувати нове измене?",
+
+  "plugins_moderation": "Moderacija",
+  "plugins_moderation_info": "Moderacija na serveru",
+  "plugins_moderation_details": "Moderacija na serveru",
+
+  "plugins_welcome": "Poruka dobrodošlice",
+  "plugins_welcome_info": "Šaljite poruku dobrodošlice",
+  "plugins_welcome_details": "Šaljite poruku dobrodošlice kada neko pristupi vašem serveru",
+
+  "plugins_goodbye": "Poruka za odlazak",
+  "plugins_goodbye_info": "Šaljite poruku za odlazak",
+  "plugins_goodbye_details": "Šaljite poruku za odlazak kada neko napusti vaš server",
+
+  "plugins_tags": "Oznake i odgovori",
+  "plugins_tags_info": "Kreirajte i upravljajte oznakama sa odgovorima",
+  "plugins_tags_details": "Kreirajte i upravljajte oznakama sa odgovorima",
+
+  "premium_not_enabled": "Nije omogućeno",
+  "premium_active_until": "Aktivno do {date}",
 
   "error_404": "Stranica nije pronađena",
   "error_500": "Greška na serveru",
 
   "common_save": "Sačuvaj",
   "common_saving": "Čuvanje",
+  "common_reset": "Поништи",
   "common_cancel": "Otkaži",
   "common_enable": "Omogući",
   "common_disable": "Onemogući",
-  "common_loading": "Učitavanje"
+  "common_loading": "Učitavanje",
+  "common_logout": "Odjava"
 }

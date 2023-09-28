@@ -20,19 +20,75 @@
   "radio_player_search_empty": "Radio nicht gefunden",
 
   "btn_invite": "Einladen",
+  "btn_invite_bot": "Bot einladen {bot}",
   "btn_add_bot": "{bot} hinzufügen",
   "btn_dashboard": "Dashboard",
   "btn_start_now": "Jetzt starten",
+  "btn_discord": "Discord Server",
   "btn_back": "Zurück",
   "btn_go_back": "Zurückgehen",
+
+  "dashboard_info": "Wählen Sie Ihren Server aus und beginnen Sie den Bot zu verwenden.",
+
+  "guilds_search_input": "Server suchen",
+  "guilds_search_empty": "Keine Server gefunden",
+
+  "guild_not_found": "Server nicht gefunden",
+  "guild_not_found_info": "Stellen Sie sicher, dass Sie den Bot auf den Server eingeladen haben",
+
+  "guild_overview": "Übersicht",
+  "guild_plugins": "Plugins",
+  "guild_settings": "Einstellungen",
+
+  "guild_overview_last_tag": "Letzter Tag",
+  "guild_overview_total_tags": "Gesamtanzahl der Tags",
+  "guild_overview_count_members": "{total} {count, plural, =0 {Mitglieder} =1 {Mitglied} other {Mitglieder}}",
+  "guild_overview_total_members": "Gesamtmitglieder",
+
+  "guild_analytics_wait_for_data": "Warte auf Daten",
+  "guild_analytics_commands_usage": "Befehlsverwendung",
+  "guild_analytics_server_activity": "Serveraktivität",
+  
+  "guild_settings_lang": "Sprache",
+  "guild_settings_lang_info": "Die Botsprache auf dem Server",
+
+  "plugin_not_found": "Plugin nicht gefunden",
+  "plugin_not_found_info": "Stellen Sie sicher, dass Sie den Bot auf den Server eingeladen haben",
+
+  "plugin_enable": "Plugin aktivieren",
+  "plugin_disable": "Plugin deaktivieren",
+  "plugin_disable_reset": "Plugin deaktivieren und zurücksetzen",
+  "plugin_changes_save": "Änderungen speichern",
+  "plugin_changes_warn": "Neue Änderungen speichern?",
+
+  "plugins_moderation": "Moderation",
+  "plugins_moderation_info": "Moderation auf dem Server",
+  "plugins_moderation_details": "Moderation auf dem Server",
+
+  "plugins_welcome": "Willkommensnachricht",
+  "plugins_welcome_info": "Senden Sie eine Willkommensnachricht",
+  "plugins_welcome_details": "Senden Sie eine Willkommensnachricht, wenn jemand Ihrem Server beitritt",
+
+  "plugins_goodbye": "Abschiedsnachricht",
+  "plugins_goodbye_info": "Senden Sie eine Abschiedsnachricht",
+  "plugins_goodbye_details": "Senden Sie eine Abschiedsnachricht, wenn jemand Ihren Server verlässt",
+
+  "plugins_tags": "Tags und Antworten",
+  "plugins_tags_info": "Erstellen und verwalten Sie Tags mit Antworten",
+  "plugins_tags_details": "Erstellen und verwalten Sie Tags mit Antworten",
+
+  "premium_not_enabled": "Nicht aktiviert",
+  "premium_active_until": "Aktiv bis {date}",
 
   "error_404": "Seite nicht gefunden",
   "error_500": "Serverfehler",
 
   "common_save": "Speichern",
   "common_saving": "Speichern",
+  "common_reset": "Zurücksetzen",
   "common_cancel": "Abbrechen",
   "common_enable": "Aktivieren",
   "common_disable": "Deaktivieren",
-  "common_loading": "Laden"
+  "common_loading": "Laden",
+  "common_logout": "Abmeldung"
 }

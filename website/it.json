@@ -20,19 +20,75 @@
   "radio_player_search_empty": "Radio non trovata",
 
   "btn_invite": "Invita",
+  "btn_invite_bot": "Invita {bot}",
   "btn_add_bot": "Aggiungi {bot}",
   "btn_dashboard": "Dashboard",
   "btn_start_now": "Inizia ora",
+  "btn_discord": "Server Discord",
   "btn_back": "Indietro",
   "btn_go_back": "Ritorna indietro",
+
+  "dashboard_info": "Seleziona il tuo server e inizia a utilizzare il bot.",
+
+  "guilds_search_input": "Cerca server",
+  "guilds_search_empty": "Nessun server trovato",
+
+  "guild_not_found": "Server non trovato",
+  "guild_not_found_info": "Assicurati di aver invitato il bot nel server",
+
+  "guild_overview": "Panoramica",
+  "guild_plugins": "Plugins",
+  "guild_settings": "impostazioni",
+
+  "guild_overview_last_tag": "Ultimo tag",
+  "guild_overview_total_tags": "Tag totali",
+  "guild_overview_count_members": "{total} {count, plural, =0 {membri} =1 {membro} other {membri}}",
+  "guild_overview_total_members": "Membri totali",
+
+  "guild_analytics_wait_for_data": "In attesa di dati",
+  "guild_analytics_commands_usage": "Utilizzo comandi",
+  "guild_analytics_server_activity": "Attivita nel server",
+
+  "guild_settings_lang": "Lingua",
+  "guild_settings_lang_info": "La lingua del bot nel server",
+
+  "plugin_not_found": "Plugin non trovato",
+  "plugin_not_found_info": "Make sure you have invited the bot to the server",
+
+  "plugin_enable": "Abilita Plugin",
+  "plugin_disable": "Disabilita Plugin",
+  "plugin_disable_reset": "Disabilita e ripristina plugin",
+  "plugin_changes_save": "Salva modifiche",
+  "plugin_changes_warn": "Salvare le nuove modifiche?",
+
+  "plugins_moderation": "Moderazione",
+  "plugins_moderation_info": "Moderazione nel server",
+  "plugins_moderation_details": "Moderazione nel server",
+
+  "plugins_welcome": "Messaggio di benvenuto",
+  "plugins_welcome_info": "Invia un messaggio di benvenuto",
+  "plugins_welcome_details": "Invia un messaggio di benvenuto quando qualcuno si unisce al tuo server",
+
+  "plugins_goodbye": "Messaggio di arrivederci",
+  "plugins_goodbye_info": "Invia un messaggio di arrivederci",
+  "plugins_goodbye_details": "Invia un messaggio di arrivederci quando qualcuno abbandona il tuo server",
+
+  "plugins_tags": "Tag e risposte",
+  "plugins_tags_info": "Crea e gestisci tag con risposte",
+  "plugins_tags_details": "Crea e gestisci tag con risposte",
+
+  "premium_not_enabled": "Non abilitato",
+  "premium_active_until": "Attivo fino al {date}",
 
   "error_404": "Pagina non trovata",
   "error_500": "Errore Server",
 
   "common_save": "Salva",
   "common_saving": "Salvando",
+  "common_reset": "Ripristina",
   "common_cancel": "Cancella",
   "common_enable": "Abilita",
   "common_disable": "Disabilita",
-  "common_loading": "Caricamento"
+  "common_loading": "Caricamento",
+  "common_logout": "Esci"
 }

@@ -20,19 +20,75 @@
   "radio_player_search_empty": "Radio non trouvée",
 
   "btn_invite": "Inviter",
+  "btn_invite_bot": "Inviter {bot}",
   "btn_add_bot": "Ajouter {bot}",
   "btn_dashboard": "Tableau de Bord",
   "btn_start_now": "Commencer maintenant",
+  "btn_discord": "Serveur Discord",
   "btn_back": "Retour",
   "btn_go_back": "Revenir",
+
+  "dashboard_info": "Sélectionnez votre serveur et commencez à utiliser le bot.",
+
+  "guilds_search_input": "Rechercher un serveur",
+  "guilds_search_empty": "Aucun serveur trouvé",
+
+  "guild_not_found": "Serveur introuvable",
+  "guild_not_found_info": "Assurez-vous d'avoir invité le bot sur le serveur",
+
+  "guild_overview": "Vue d'ensemble",
+  "guild_plugins": "Plugins",
+  "guild_settings": "Paramètres",
+
+  "guild_overview_last_tag": "Dernière balise",
+  "guild_overview_total_tags": "Nombre total de balises",
+  "guild_overview_count_members": "{total} {count, plural, =0 {membres} =1 {membre} other {membres}}",
+  "guild_overview_total_members": "Nombre total de membres",
+
+  "guild_analytics_wait_for_data": "En attente de données",
+  "guild_analytics_commands_usage": "Utilisation des commandes",
+  "guild_analytics_server_activity": "Activité du serveur",
+  
+  "guild_settings_lang": "Langue",
+  "guild_settings_lang_info": "La langue du bot sur le serveur",
+
+  "plugin_not_found": "Plugin introuvable",
+  "plugin_not_found_info": "Assurez-vous d'avoir invité le bot sur le serveur",
+
+  "plugin_enable": "Activer le plugin",
+  "plugin_disable": "Désactiver le plugin",
+  "plugin_disable_reset": "Désactiver et réinitialiser le plugin",
+  "plugin_changes_save": "Enregistrer les modifications",
+  "plugin_changes_warn": "Enregistrer de nouvelles modifications ?",
+
+  "plugins_moderation": "Modération",
+  "plugins_moderation_info": "Modération sur le serveur",
+  "plugins_moderation_details": "Modération sur le serveur",
+
+  "plugins_welcome": "Message de bienvenue",
+  "plugins_welcome_info": "Envoyer un message de bienvenue",
+  "plugins_welcome_details": "Envoyer un message de bienvenue lorsque quelqu'un rejoint votre serveur",
+
+  "plugins_goodbye": "Message d'adieu",
+  "plugins_goodbye_info": "Envoyer un message d'adieu",
+  "plugins_goodbye_details": "Envoyer un message d'adieu lorsque quelqu'un quitte votre serveur",
+
+  "plugins_tags": "Balises et réponses",
+  "plugins_tags_info": "Créer et gérer des balises avec des réponses",
+  "plugins_tags_details": "Créer et gérer des balises avec des réponses",
+
+  "premium_not_enabled": "Non activé",
+  "premium_active_until": "Actif jusqu'au {date}",
 
   "error_404": "Page non trouvée",
   "error_500": "Erreur de Serveur",
 
   "common_save": "Enregistrer",
   "common_saving": "Enregistrement",
+  "common_reset": "Réinitialiser",
   "common_cancel": "Annuler",
   "common_enable": "Activer",
   "common_disable": "Désactiver",
-  "common_loading": "Chargement"
+  "common_loading": "Chargement",
+  "common_logout": "Déconnexion"
 }
